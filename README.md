@@ -15,3 +15,31 @@ For the Multinomial Naive-Bayes method we will be vectorizing the data of each t
 
 For the LSTM model, we will be taking the data. First, we check for any missing values in the test and train data. Then normalize the text data followed by Lemmatization which is the process of grouping together the different inflected forms of words so they can be analyzed as a single term. And then we remove the Stopwords Removal in the dataset. Post that we can proceed with Tokenization followed by padding. We aim to classify the tweets with good accuracy and precision.
 
+
+
+
+
+Data Pre-processing:
+Include methods used to clean the data
+The ratio of positive: negative tweets (for 100 samples, 97:3 respectively would be a reasonable classification)
+The number of samples in both test and train sets.
+Percentage of negative and positive tweets in both training and test sets.
+
+Naive-Bayes Model:
+Theory
+Formula
+Code snippets
+
+LSTM:
+Theory
+Formula
+Code snippets
+
+Results:
+Accuracy
+Precision
+Recall
+Confusion matrix
+Conclusion:
+Comparison
+Future scope
