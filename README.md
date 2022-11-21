@@ -19,6 +19,8 @@ For the LSTM model, we will be taking the data. First, we check for any missing 
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
 Data Pre-processing:
 Include methods used to clean the data
 The ratio of positive: negative tweets (for 100 samples, 97:3 respectively would be a reasonable classification)
