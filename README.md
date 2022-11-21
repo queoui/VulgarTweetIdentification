@@ -42,6 +42,7 @@ Accuracy
 Precision
 Recall
 Confusion matrix
+
 Conclusion:
 Comparison
 Future scope
